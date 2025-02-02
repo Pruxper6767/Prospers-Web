@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+HR+Lijeva:wght@100..400&display=swap');
+
+* {
+    font-family: "Playwrite HR Lijeva", seri;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    background-color: gainsboro;
+
+}
+
+.main-wrapper {
+    background-color: white;
+    border-radius: 50px;
+    padding: 2em;
+    margin: 2em;
+    width: 39em;
+}
+
+
+
+.top-side table{
+    width: 100%;
+}
+
+.top-side table tr td:last-child{
+    text-align: right;
+}
+
+.main-sector {
+    background-color: yellow;
+    border: 3px solid black;
+    padding: 25px;
+    border-radius: 20px;
+    font-size: 1.5em;
+    margin: 2em;
+    width: 3.2em;
+}
+
+.main-image {
+    width: 100%;
+}
+
+.main-image {
+    width: 30em;
+}
+
+.main-text p{
+     font-size: 0.6rem;
+}
+
+.biography table{
+    border: 3px solid black;
+    width: 100%;
+    border-radius: 10px;
+    padding: 0.6em;
+    margin-top: 2em;
+    padding-left: 0.6em;
+}
+
+.biography table td{
+    font-weight: bold;
+}
+
+.biography table td:first-child {
+    background-color: aqua;
+    color: white;
+    border: 2px solid black;
+    text-align: center;
+    padding: 0.5rem;
+    border-radius: 10px;
+}
+
+.sub-main-text {
+    margin-top: 2em;
+}
+
+.sub-main-text {
+    margin-top: 2em;
+}
